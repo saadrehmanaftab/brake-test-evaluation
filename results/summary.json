@@ -1,0 +1,13 @@
+{
+  "stops": 55,
+  "mu_characteristic_mean": 0.41044891323648225,
+  "mu_fade_min": 0.36234635848509905,
+  "fade_drop_pct": 11.719498627023695,
+  "mu_recovery_mean": 0.41247665625922086,
+  "T_max_C": 325.1167729080031,
+  "pressure_sensitivity_per_bar": -0.00070509205659163,
+  "max_eval_error_vs_model_pct": 0.31883361672643135,
+  "pm10_total_mg": 2348.69140625,
+  "pm10_mg_per_MJ_characteristic": 314.99999999999994,
+  "pm10_mg_per_MJ_fade": 441.0
+}
